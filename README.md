@@ -18,5 +18,5 @@ Have fun!
 
 Matteo
 
-![Uploading image.png…]()
+https://github.com/matt199394/IV6_VFD_clock/blob/main/IV6clok3.jpg
 
