@@ -1,4 +1,3 @@
-IV6 VFD clock
 Homemade IV6 VFD clock with time, date and alarm function.
 
 Code to drive the VFD tube is taken from https://www.valvewizard.co.uk/iv18clock.html and sightly  modified to operate with two ULN2803 instesad of ILQ615.
