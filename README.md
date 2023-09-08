@@ -8,9 +8,9 @@ From here you can see a breaf demo https://www.youtube.com/watch?v=7VDIsH5IEZ0
 In this repo other than the code I have share the gerber file. 
 Building the clock is relative simple because of I have used only through hole component hand ready to use module.
  
-To set the clock you the buttons as:
+To set the clock use:
   - SW1 to set time then SW2 and SW3 to increase or decase the hours, mins and secs.
-  - SW2 to toggle alllarm ON and OFF, if alarma ON pushing SW1 set the alarms hours mins and secs.
+  - SW2 to toggle allarm ON and OFF, if alarma ON pushing SW1 set the alarms hours mins and secs.
 
 
 Have fun!
